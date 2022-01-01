@@ -1,0 +1,51 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.busty.chronoshag.luigimario79",
+    "packCredits": "Sprites - u/chronoshag, Edited by LM79 for DDDG.",
+    "packName": "Busty",
+    "authors": [
+        "chronoshag",
+        "LuigiMario79"
+    ],
+    "source": "https://www.reddit.com/r/DDLCMods/comments/dffzqj/i_made_a_thing_i_hate_it/",
+    "comicClubUrl": "#",
+    "cc2credits": {
+        "left": [
+            "Sprites",
+            "Edit for DDDG by"
+        ],
+        "right": [
+            "chronoshag",
+            "LM79"
+        ]
+    },
+    "styles": [
+        {
+            "name": "busty_chronoshag",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-busty_chronoshag",
+            "style": "busty_chronoshag",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        }
+    ]
+}
