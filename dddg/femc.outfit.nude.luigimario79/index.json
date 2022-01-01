@@ -1,0 +1,64 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+	"id": "ddlc.fan.femc",
+	"packId": "femc.outfit.nude.luigimario79",
+	"packCredits": "Created by LM79, original sprites by Meddy-sin",
+	"packName": "Nude",
+	"source": "https://www.reddit.com/r/DDLC/comments/8x7msp/a_free_to_use_base_for_femc_original_sprite_by/",
+	"authors": ["LuigiMario79"],
+	"cc2credits": {
+		"left": ["FeMC Nude"],
+		"right": ["LuigiMario79"]
+	},
+	"comicClubUrl": "#",
+	"folder": "./",
+	"styles": [
+		{
+			"name": "shirt_nude-sh-yellow",
+			"label": ""
+		},
+		{
+			"name": "shirt_nude-lh-yellow",
+			"label": ""
+		},
+		{
+			"name": "shirt_nude-sh-hetero",
+			"label": ""
+		},
+		{
+			"name": "shirt_nude-lh-hetero",
+			"label": ""
+		}
+	],
+	"heads": {},
+	"poses": [
+		{
+			"name": "normal-shirt_nude-sh-yellow",
+			"style": "shirt_nude-sh-yellow",
+			"folder": "sh/",
+			"compatibleHeads": ["straight"],
+			"static": "1.png"
+		},
+		{
+			"name": "normal-shirt_nude-sh-hetero",
+			"style": "shirt_nude-sh-hetero",
+			"folder": "sh/",
+			"compatibleHeads": ["straight_hetero"],
+			"static": "1.png"
+		},
+		{
+			"name": "normal-shirt_nude-lh-yellow",
+			"style": "shirt_nude-lh-yellow",
+			"folder": "lh/",
+			"compatibleHeads": ["straight_lh"],
+			"static": "1.png"
+		},
+		{
+			"name": "normal-shirt_nude-lh-hetero",
+			"style": "shirt_nude-lh-hetero",
+			"folder": "lh/",
+			"compatibleHeads": ["straight_hetero_lh"],
+			"static": "1.png"
+		}
+	]
+}

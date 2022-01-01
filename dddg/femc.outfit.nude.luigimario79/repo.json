@@ -1,0 +1,27 @@
+{
+    "pack": {
+        "id": "femc.outfit.nude.luigimario79",
+        "name": "Nude",
+        "characters": [
+            "FeMC"
+        ],
+        "authors": [
+            "LuigiMario79"
+        ],
+        "kind": [
+            "Styles"
+        ],
+        "source": "https://www.reddit.com/r/DDLC/comments/8x7msp/a_free_to_use_base_for_femc_original_sprite_by/",
+        "dddg2Path": "https://luigimario79.github.io/dddg/femc.outfit.nude.luigimario79/index.json",
+        "description": "Sprites - u/chronoshag, Edited by LM79 for DDDG.",
+        "preview": [
+            "https://luigimario79.github.io/dddg/femc.outfit.nude.luigimario79/lh/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "LuigiMario79": {
+            "reddit": "LuigiMario79"
+        }
+    }
+}
